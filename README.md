@@ -43,6 +43,8 @@ E então execute o nosso script sh
 ```bash
 ./start.sh                             
 ```
+Aguarde os conteiners iniciarem e estarem aptos para utilização.
+
 E por fim, basta acessar a plataforma no endereço:
 
 ```bash
